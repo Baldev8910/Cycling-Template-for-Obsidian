@@ -1,0 +1,2 @@
+# Cycling Template for Obsidian
+
